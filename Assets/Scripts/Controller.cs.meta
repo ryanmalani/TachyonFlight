@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 98cee4df8d3d63d4281148878aef05e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerModel: {instanceID: 0}
+  - projectile: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  - enemy1: {fileID: 7344148816829409380, guid: 0ec32678ff0706d42871494cf376c056,
+      type: 3}
+  - enemy2: {fileID: 596405355352050372, guid: 65e2f26f90618774f8bbf4195371f583, type: 3}
+  - enemy3: {fileID: 596405355352050372, guid: 65e2f26f90618774f8bbf4195371f583, type: 3}
+  - enemy4: {fileID: 7344148816829409380, guid: 0ec32678ff0706d42871494cf376c056,
+      type: 3}
+  - enemy5: {fileID: 596405355352050372, guid: 65e2f26f90618774f8bbf4195371f583, type: 3}
+  - director: {instanceID: 0}
+  - vrRig: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
